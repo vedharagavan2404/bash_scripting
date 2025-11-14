@@ -1,0 +1,10 @@
+Searching for errors in directory: /root/log-practice/error-logs/..
+/root/log-practice/error-logs/app1.log:2025-11-07 10:15:09 WARNING Disk usage at 75%
+/root/log-practice/error-logs/app1.log:2025-11-07 10:18:43 ERROR Failed to connect to database
+/root/log-practice/error-logs/app1.log:2025-11-07 10:30:20 ERROR Timeout while processing request
+/root/log-practice/error-logs/app3.log:2025-11-05 12:09:58 WARNING Low memory
+/root/log-practice/error-logs/app3.log:2025-11-05 12:12:25 ERROR Authentication failed
+/root/log-practice/error-logs/app3.log:2025-11-05 12:15:44 ERROR Service crashed unexpectedly
+/root/log-practice/error-logs/app2.log:2025-11-06 09:47:32 WARNING High CPU usage detected
+/root/log-practice/error-logs/app2.log:2025-11-06 09:49:15 ERROR Could not read config file
+/root/log-practice/error-logs/app2.log:2025-11-06 09:59:59 ERROR Network unreachable
