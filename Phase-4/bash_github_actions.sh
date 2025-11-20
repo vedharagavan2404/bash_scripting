@@ -1,6 +1,6 @@
 #!/bin/bash
 
-main_folder="$HOME/Bash-Intermediate/Phase-3"
+main_folder="$HOME/Phase-3"
 
 if [[ ! -d "$main_folder" ]]; then
 	echo "ERROR: Directory $main_folder does not exist"
