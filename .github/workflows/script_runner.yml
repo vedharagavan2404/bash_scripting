@@ -13,8 +13,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: make script executable
-        run: chmod +x bash_github_actions.sh
+        run: chmod +x Phase-4/bash_github_actions.sh
     
       - name: running bash script
-        run: ./bash_github_actions.sh
+        run: ./Phase-4/bash_github_actions.sh
       
